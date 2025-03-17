@@ -2,6 +2,8 @@
 
 This project is a basic clone of the Amazon website, developed to practice and demonstrate web development skills. It replicates key features of the original site, providing a familiar user experience.
 
+You can see the website live at: https://jhansiranikhura.github.io/AmazonClone/
+
 ## Features
 
 - **Responsive Design**: Ensures compatibility across various devices and screen sizes.
